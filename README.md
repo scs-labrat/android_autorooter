@@ -1,7 +1,8 @@
 
 
 # Android Autorooter
-[![Autorooter]](https://cdn.mos.cms.futurecdn.net/k7c2VW8eHbWtSaCgzLAa4P-320-80.jpeg)
+[![Autorooter](https://cdn.mos.cms.futurecdn.net/k7c2VW8eHbWtSaCgzLAa4P-320-80.jpeg)]
+
 
 This is just a mental note more than anything to further explore the posibilities of the work done here:
 https://rtx.meta.security/exploitation/2024/03/04/Android-run-as-forgery.html
